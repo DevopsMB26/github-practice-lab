@@ -1,4 +1,4 @@
-- name: Simulate Deploy
+name: Simulate Deploy
   run: |
     echo "Deploying application..."
     ls -l
